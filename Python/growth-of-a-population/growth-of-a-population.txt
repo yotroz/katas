@@ -1,0 +1,1 @@
+we used the approach of a counter and while loop 
